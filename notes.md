@@ -50,6 +50,8 @@ In no particular order, to be restructured later
 * Spend more time with Fig.1 in [Tucker][2]
 * "The human and the robot must work together in an intuitive and synergistic way: the device recognizes the user's motion intentions and acts to assist with that movement *with minimal congnitive disruption* and required compensatory motion, and rich sensory feedback is provided to the user. Thus, a well-designed and interactive P/O controller must begin with an understanding of the human controller." [Tucker][2] (emphasis added)
 * Human locomotion depends on larger patterns generated in the spine (through a network of spinal interneurons - CPG) and on volitional and reflex-dependent fine control at different levels [Tucker][2]
+* Volitional motor control originates at the supraspinal (cortical/brain) level. This is e.g. major changes in locomotor patterns. Specifically: premotor and motor cortex, cerebellum, brain stem. Brain stem regulates CPG and reflexes. These systems also aggregate & process vestibular & visual systems, which are used in balance, orientation, and precision movement control [Tucker][2]
+* Locomotor patterns are modulated by feedback from muscle spindles, Golgi tendon organs, mechanoreceptors on joint capsules, tactile mechanoreceptors, free nerve endings on the skin (sense of touch). This is used to increase gait efficiency and stabilize posture during perturbations [Tucker][2] 
 
 
 ## References
