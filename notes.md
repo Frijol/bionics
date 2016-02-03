@@ -1,16 +1,5 @@
 # Bionics - notes
 
-## Terms
-See glossary.md
-
-## Labs
-Various labs working in this field, and any specialities of the labs
-
-* MIT Media Lab working on AFOs
-* UMich under Cain, Kao, Ferris use almost exclusively pneumatic muscles. Built a KAFO with thigh/hamstring muscles
-* ASU Phoenix used regenerative braking at ankle of AFO to power the onboard computer
-* Case Western Reserve working on RGOs
-
 ## Devices
 Current devices released in the field
 
@@ -51,7 +40,16 @@ In no particular order, to be restructured later
 * "The human and the robot must work together in an intuitive and synergistic way: the device recognizes the user's motion intentions and acts to assist with that movement *with minimal congnitive disruption* and required compensatory motion, and rich sensory feedback is provided to the user. Thus, a well-designed and interactive P/O controller must begin with an understanding of the human controller." [Tucker][2] (emphasis added)
 * Human locomotion depends on larger patterns generated in the spine (through a network of spinal interneurons - CPG) and on volitional and reflex-dependent fine control at different levels [Tucker][2]
 * Volitional motor control originates at the supraspinal (cortical/brain) level. This is e.g. major changes in locomotor patterns. Specifically: premotor and motor cortex, cerebellum, brain stem. Brain stem regulates CPG and reflexes. These systems also aggregate & process vestibular & visual systems, which are used in balance, orientation, and precision movement control [Tucker][2]
-* Locomotor patterns are modulated by feedback from muscle spindles, Golgi tendon organs, mechanoreceptors on joint capsules, tactile mechanoreceptors, free nerve endings on the skin (sense of touch). This is used to increase gait efficiency and stabilize posture during perturbations [Tucker][2] 
+* Locomotor patterns are modulated by feedback from muscle spindles, Golgi tendon organs, mechanoreceptors on joint capsules, tactile mechanoreceptors, free nerve endings on the skin (sense of touch). This is used to increase gait efficiency and stabilize posture during perturbations [Tucker][2]
+* "The purpose of a powered assistive device is to interface with the residual neuromusculoskeletal structures such that the support, control and actuation loops are reconnected." [Tucker][2]
+* Two training paradigms for gait rehabilitation: assistive controller provides direct assistance in cotrolling limbs in accordance with intentions. Challenge-based controller is intended to provoke motor plasticity e.g. through error amplification. Not sure which is better in the long term, but assistive is more useful immediately [Tucker][2]
+* What is the objective of the device? Reduce compensation mechanisms, or increase ability to perform ADLs? [Tucker][2]
+* How to sense intention of movement? Cortical or neuromuscular activity, posture, locomotive state, or physical interaction with the environment and/or P/O device [Tucker][2]
+* Intention of movement sensors are judged by how invasive (relative ease in time, risk, effort to insert or remove a sensor) they are and the richness of information (variety, specificity) gotten out of them [Tucker][2]
+* Might be impossible to neurally control balance and motion at the same time for locomotion because the complex control loops for this are reflex arcs in the spine [Tucker][2]
+* Shared control: idea of neural control for high level e.g. sit down, computer does env. sensing & actuation to fulfill the command [Tucker][2]
+* No examples yet of cortical implants to control lower limbs [Tucker][2]
+
 
 
 ## References
